@@ -1,0 +1,50 @@
+{
+    "relationships": [],
+    "module": {
+        "isVirtual": true,
+        "platform": {},
+        "name": "SnippetSample"
+    },
+    "symbols": [
+        {
+            "pathComponents": [
+                "Snippets",
+                "FirstExample"
+            ],
+            "names": {
+                "title": "FirstExample"
+            },
+            "identifier": {
+                "interfaceLanguage": "swift",
+                "precise": "$snippet__SnippetSample.FirstExample"
+            },
+            "isVirtual": true,
+            "docComment": {
+                "lines": [
+                    {
+                        "text": ""
+                    }
+                ]
+            },
+            "snippet": {
+                "lines": [
+                    "print(\"hello world\")"
+                ],
+                "language": "swift"
+            },
+            "kind": {
+                "identifier": "snippet",
+                "displayName": "Snippet"
+            },
+            "accessLevel": "public"
+        }
+    ],
+    "metadata": {
+        "formatVersion": {
+            "patch": 0,
+            "major": 0,
+            "minor": 1
+        },
+        "generator": "snippet-extract"
+    }
+}
