@@ -46,5 +46,5 @@ After running the preview, you can find the symbol graphs generated in the proce
 
 I prettified the JSON and copied the two into the root directory:
 
-- [SnippetSample-snippet.symbols.json](./SnippetSample-snippet.symbols.json)
-- [SnippetSample.symbols.json](./SnippetSample.symbols.json)
+- [SnippetSample-snippet.symbols.json](SnippetSample-snippets.symbols.json)
+- [SnippetSample.symbols.json](SnippetSample.symbols.json)
